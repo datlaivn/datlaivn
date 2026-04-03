@@ -64,7 +64,7 @@
       <img src="https://skillicons.dev/icons?i=react,laravel&theme=dark" /><br/>
     </td>
     <td width="85%" style="border: 1px solid #777; padding: 20px;">
-      <b>🌐 Link dự án:</b> <a href="https://sqhome.vn">sqhome.vn</a> | <a href="https://inaxmiennam.vn">inaxmiennam.vn</a><br/><br/>
+      <b>🌐 Link dự án:</b> <a href="https://totomiennam.vn">totomiennam.vn</a> | <a href="https://inaxmiennam.vn">inaxmiennam.vn</a><br/><br/>
       <b>💻 Công nghệ:</b> ReactJS (Frontend), PHP Laravel (Backend)<br/>
       <b>🚀 Tính năng:</b> Nền tảng phân phối thiết bị vệ sinh cao cấp chính hãng. Tích hợp UI/UX hiện đại, Mega Menu linh hoạt, Checkout giỏ hàng real-time. Build API mạnh mẽ quản lý hệ thống đại lý, hàng tồn kho kết hợp SSR và xây dựng cấu trúc <b>Dynamic SEO Server-side</b> đẩy top Google mạnh mẽ. Phân luồng component logic tách biệt rành mạch trên React.
     </td>
