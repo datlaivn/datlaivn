@@ -3,92 +3,149 @@
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/datlaivn/datlaivn/main/assets/banner.png" alt="Profile Banner" width="100%" onerror="this.style.display='none'" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Đạt%20Light&fontSize=70&fontAlignY=35&desc=Fullstack%20Developer%20|%20ReactJS%20&%20Laravel&descAlignY=55&descAlign=50" width="100%" alt="Header Dat Light" />
 </div>
 
-<h1 align="center">Xin chào, tôi là Đạt Light 👋</h1>
-
-<h3 align="center">Fullstack Developer | Chuyên gia ReactJS & Laravel</h3>
-
-<p align="center">
-  Tôi là một lập trình viên Fullstack đam mê xây dựng các hệ thống website quy mô lớn, từ các nền tảng thương mại điện tử chuyên nghiệp đến các hệ thống giao dịch tự động. Sức mạnh cốt lõi của tôi nằm ở kiến trúc <b>Frontend mượt mà với ReactJS</b> và <b>Backend vững chắc với PHP Laravel</b>.
-</p>
+<br/>
 
 <div align="center">
   <a href="https://github.com/datlaivn">
-    <img src="https://img.shields.io/github/followers/datlaivn?label=Followers&style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/datlaivn?label=Followers&style=for-the-badge&color=2563eb" alt="Followers" />
   </a>
 </div>
 
-<br />
+<br/>
 
----
+## 👨‍💻 Về Bản Thân
 
-## 🚀 Kỹ năng công nghệ & Tech Stack
+> _Tôi là một lập trình viên Fullstack đam mê xây dựng các hệ thống website quy mô lớn, từ các nền tảng thương mại điện tử chuyên nghiệp đến các hệ thống giao dịch tự động. Sức mạnh cốt lõi của tôi nằm ở kiến trúc **Frontend mượt mà với ReactJS** và **Backend vững mạnh cùng PHP Laravel**._
 
-Là một Fullstack Developer, tôi luôn tiếp cận dự án với tư duy Component-based trên UI và quy chuẩn RESTful cho API.
+<br/>
+
+## 🛠️ Công Nghệ & Kỹ Năng
+
+<table align="center" width="100%" border="0" style="border-collapse: collapse;">
+  <tr>
+    <th align="center" style="border: 1px solid #777; padding: 15px;">🎨 Frontend (UI/UX)</th>
+    <th align="center" style="border: 1px solid #777; padding: 15px;">⚙️ Backend (APIs)</th>
+    <th align="center" style="border: 1px solid #777; padding: 15px;">🛠 Tools / DevOps</th>
+  </tr>
+  <tr>
+    <td align="center" style="border: 1px solid #777; padding: 20px;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,css,html,figma&theme=dark" />
+      </a>
+    </td>
+    <td align="center" style="border: 1px solid #777; padding: 20px;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=laravel,php,mysql,redis&theme=dark" />
+      </a>
+    </td>
+    <td align="center" style="border: 1px solid #777; padding: 20px;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🚀 Các Dự Án Tiêu Biểu (My Portfolio)
+
+<table width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <th width="100%" colspan="2" style="border: 1px solid #777; padding: 15px; font-size: 16px; background-color: rgba(147, 197, 253, 0.1);">
+      🏢 Hệ Thống Thương Mại Điện Tử Doanh Nghiệp (INAX Miền Nam & SQHOME)
+    </th>
+  </tr>
+  <tr>
+    <td width="15%" align="center" style="border: 1px solid #777; padding: 15px;">
+      <img src="https://skillicons.dev/icons?i=react,laravel&theme=dark" /><br/>
+    </td>
+    <td width="85%" style="border: 1px solid #777; padding: 20px;">
+      <b>🌐 Link dự án:</b> <a href="https://sqhome.vn">sqhome.vn</a> | <a href="https://inaxmiennam.vn">inaxmiennam.vn</a><br/><br/>
+      <b>💻 Công nghệ:</b> ReactJS (Frontend), PHP Laravel (Backend)<br/>
+      <b>🚀 Tính năng:</b> Nền tảng phân phối thiết bị vệ sinh cao cấp chính hãng. Tích hợp UI/UX hiện đại, Mega Menu linh hoạt, Checkout giỏ hàng real-time. Build API mạnh mẽ quản lý hệ thống đại lý, hàng tồn kho kết hợp SSR và xây dựng cấu trúc <b>Dynamic SEO Server-side</b> đẩy top Google mạnh mẽ. Phân luồng component logic tách biệt rành mạch trên React.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <th width="100%" colspan="2" style="border: 1px solid #777; padding: 15px; font-size: 16px; background-color: rgba(147, 197, 253, 0.1);">
+      🎮 Nền Tảng Giao Dịch Tự Động Hóa (Shop Blox Fruit 24h)
+    </th>
+  </tr>
+  <tr>
+    <td width="15%" align="center" style="border: 1px solid #777; padding: 15px;">
+      <img src="https://skillicons.dev/icons?i=react,laravel&theme=dark" /><br/>
+    </td>
+    <td width="85%" style="border: 1px solid #777; padding: 20px;">
+      <b>🌐 Link dự án:</b> <a href="https://shopbloxfruit24h.com">shopbloxfruit24h.com</a><br/><br/>
+      <b>💻 Công nghệ:</b> ReactJS, PHP Laravel, MySQL, Redis<br/>
+      <b>🚀 Tính năng:</b> Hệ thống Shop Auto cung cấp tài khoản game tự động lớn nhất. Tối ưu cực hạn <b>Database Queries</b> và <b>Redis</b> để chịu tải hàng ngàn giao dịch concurrent trong các sự kiện Flash Sale. SPA ReactJS kết hợp hệ thống API Laravel thanh toán thẻ cào/chuyển khoản (Bank/Momo) xử lý giao dịch tự động 24/7 tức thì 0 giây chờ.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <th width="100%" colspan="2" style="border: 1px solid #777; padding: 15px; font-size: 16px; background-color: rgba(147, 197, 253, 0.1);">
+      📱 PhoneStore (Web Demo Logic)
+    </th>
+  </tr>
+  <tr>
+    <td width="15%" align="center" style="border: 1px solid #777; padding: 15px;">
+      <img src="https://skillicons.dev/icons?i=php,html,css&theme=dark" /><br/>
+    </td>
+    <td width="85%" style="border: 1px solid #777; padding: 20px;">
+      <b>📂 Source code:</b> <a href="https://github.com/datlaivn/phone-php">datlaivn/phone-php</a><br/><br/>
+      <b>💻 Công nghệ:</b> PHP thuần, CSS3, Cookie Array Manipulation (No Database)<br/>
+      <b>🚀 Tính năng:</b> Website mô phỏng TMĐT để rèn luyện cấu trúc giải thuật nền tảng của Backend. Xử lý logic giỏ hàng mua/bán, phân vùng Admin bảo mật thao tác chỉnh sửa sản phẩm bằng Array trực tiếp lưu động xuyên phiên hoạt động (Cookies) không cần Database. Giao diện Darkmode mượt mà tích hợp Keyframe Animation.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📈 Tình Hình Hoạt Động & Thống Kê
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,css,html,figma&theme=dark" alt="Frontend Skills" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,redis,git,github,docker&theme=dark" alt="Backend Skills" />
+  <table width="100%" style="border: none;">
+    <tr>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=datlaivn&show_icons=true&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&bg_color=0f172a&hide_border=true&custom_title=Th%E1%BB%91ng%20K%C3%AA%20GitHub" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=datlaivn&theme=obsidian&hide_border=true" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br />
-
----
-
-## 💼 Các Dự Án & Sản Phẩm Đã Xây Dựng (My Portfolio)
-
-Dưới đây là một số dự án thực tế tôi đã thiết kế kiến trúc và trực tiếp lập trình (cả Frontend & Backend API):
-
-### 🏢 1. Hệ thống TMĐT: SQHOME & INAX Miền Nam
-Nền tảng thương mại điện tử phân phối thiết bị vệ sinh cao cấp chính hãng (Inax, Grohe). Hệ thống được tối ưu hóa chuẩn SEO và tích hợp luồng quản lý bán hàng phức tạp cho doanh nghiệp.
-* **🌐 Website:** [sqhome.vn](https://sqhome.vn) | [inaxmiennam.vn](https://inaxmiennam.vn)
-* **💻 Công nghệ:** ReactJS (Frontend) & PHP Laravel (Backend)
-* **Tính năng nổi bật:**
-  * **Frontend (ReactJS):** UI/UX hiện đại, Mega Menu linh hoạt, giỏ hàng real-time, bộ lọc sản phẩm đa thuộc tính.
-  * **Backend (Laravel):** Xây dựng RESTful API cho toàn bộ hệ thống. Quản lý đồng bộ hóa tồn kho, biến thể sản phẩm, đơn hàng và khách hàng.
-  * **Tối ưu SEO Nâng cao:** Tích hợp cơ chế Dynamic SEO Server-side (Tự động sinh Meta Title, Description, Canonical URL, OpenGraph), tích hợp SSR để index tốt nhất trên Google.
-
-### 🎮 2. Tự động hóa Giao dịch: Shop Blox Fruit 24h
-Hệ thống cửa hàng cung cấp tài khoản game tự động (Acc Roblox / Blox Fruit) uy tín đáp ứng lưu lượng truy cập lớn của hàng triệu game thủ.
-* **🌐 Website:** [shopbloxfruit24h.com](https://shopbloxfruit24h.com)
-* **💻 Công nghệ:** ReactJS (Frontend) & PHP Laravel (Backend)
-* **Tính năng nổi bật:**
-  * **Hệ thống thanh toán tự động:** Xử lý và tích hợp API Nạp thẻ Cào, Nạp chuyển khoản ngân hàng (Bank/Momo tự động).
-  * **Giao dịch tốc độ cao:** API được thiết kế bằng Laravel tối ưu cho tốc độ Query, giúp khách hàng mua/nhận Acc ngay lập tức mà không bị timeout.
-  * **Trải nghiệm mượt mà:** SPA (Single Page Application) với ReactJS giúp game thủ lướt shop, tìm kiếm tài khoản theo thuộc tính cực kỳ trơn tru.
-
-### 📱 3. PhoneStore (Logic Bootcamp Project)
-Dự án thuần tuý dùng để thực hành và củng cố tư duy thuật toán cơ sở: Quản lý State mà không phụ thuộc vào Database.
-* **💻 Công nghệ:** PHP thuần, Vanilla CSS & HTML.
-* **Tính năng nổi bật:** Giao diện điện thoại Darkmode mượt mà, Giỏ hàng & Tương tác mua bán lưu trữ toàn bộ qua cấu trúc Array + Persist bằng Cookie thay vì MySQL. 
-* **📂 Source code:** [datlaivn/phone-php](https://github.com/datlaivn/phone-php)
-
-<br />
-
----
-
-## 📈 Thống Kê Hoạt Động GitHub
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datlaivn&show_icons=true&title_color=667eea&icon_color=a78bfa&text_color=e0e0e0&bg_color=0f0f1a&hide_border=true" alt="datlaivn's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datlaivn&theme=tokyonight" alt="datlaivn's Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datlaivn&layout=compact&theme=obsidian&hide_border=true&title_color=60a5fa" alt="Top Languages" width="60%" />
 </div>
 
-<br />
+<br/>
 
----
+## 📫 Kết Nối Với Tôi
 
-## 📫 Hãy kết nối với tôi!
+Tôi luôn cởi mở để thảo luận về code, kiến trúc hệ thống và những cơ hội chia sẻ cùng nhau:
 
-Tôi luôn cởi mở đón nhận các cơ hội hợp tác mới, bất kể là các dự án phần mềm hay chia sẻ kỹ thuật:
+| Phương thức | Liên kết / Địa chỉ |
+| :--- | :--- |
+| 📩 **Email** | <kbd> **hahahaaza1@gmail.com** </kbd> |
+| 🌍 **Vị trí** | <kbd> **Việt Nam** </kbd> |
 
-- 📩 **Email:** *hahahaaza1@gmail.com*
-- 🌍 **Khu vực hoạt động:** Việt Nam
-
-<br />
 <p align="center">
-  <i>Đừng ngừng nỗ lực, The code you write today is the feature of tomorrow! 🚀</i>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%" />
 </p>
