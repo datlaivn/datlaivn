@@ -96,7 +96,7 @@
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <th width="100%" colspan="2" style="border: 1px solid #777; padding: 15px; font-size: 16px; background-color: rgba(147, 197, 253, 0.1);">
-      📱 PhoneStore (Web Demo Logic)
+      📱 Trang Tạo Website Tự Động (Cpanel Api)
     </th>
   </tr>
   <tr>
@@ -104,9 +104,11 @@
       <img src="https://skillicons.dev/icons?i=php,html,css&theme=dark" /><br/>
     </td>
     <td width="85%" style="border: 1px solid #777; padding: 20px;">
-      <b>📂 Source code:</b> <a href="https://github.com/datlaivn/phone-php">datlaivn/phone-php</a><br/><br/>
-      <b>💻 Công nghệ:</b> PHP thuần, CSS3, Cookie Array Manipulation (No Database)<br/>
-      <b>🚀 Tính năng:</b> Website mô phỏng TMĐT để rèn luyện cấu trúc giải thuật nền tảng của Backend. Xử lý logic giỏ hàng mua/bán, phân vùng Admin bảo mật thao tác chỉnh sửa sản phẩm bằng Array trực tiếp lưu động xuyên phiên hoạt động (Cookies) không cần Database. Giao diện Darkmode mượt mà tích hợp Keyframe Animation.
+       <b>🌐 Link dự án:</b> <a href="https://taoshop1s.vn">taoshop1s.vn</a><br/><br/>
+      <b>📂 Source code:</b> (Không công khai)<br/><br/>
+       <b>💻 FRONTEND:</b> Nextjs<br/>
+      <b>💻 Backend:</b> PHP thuần<br/>
+      <b>🚀 Tính năng: Api Cpanel tạo website tự động , create database auto, upload & unzip template, connect sql, </b> 
     </td>
   </tr>
 </table>
