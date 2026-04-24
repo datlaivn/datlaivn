@@ -76,7 +76,7 @@
 <table width="100%" style="border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <th width="100%" colspan="2" style="border: 1px solid #777; padding: 15px; font-size: 16px; background-color: rgba(147, 197, 253, 0.1);">
-      🎮 Nền Tảng Giao Dịch Tự Động Hóa (Shop Blox Fruit 24h)
+      🎮 Nền Tảng Giao Dịch Tự Động Hóa (Shop Blox Fruit 24h && Api bank tự động)
     </th>
   </tr>
   <tr>
@@ -84,7 +84,7 @@
       <img src="https://skillicons.dev/icons?i=react,laravel&theme=dark" /><br/>
     </td>
     <td width="85%" style="border: 1px solid #777; padding: 20px;">
-      <b>🌐 Link dự án:</b> <a href="https://shopbloxfruit24h.com">shopbloxfruit24h.com</a><br/><br/>
+      <b>🌐 Link dự án:</b> <a href="https://shopbihuynh.vn">shopbihuynh.vn</a><br/><br/>
       <b>💻 Công nghệ:</b> ReactJS, PHP Laravel, MySQL, Redis<br/>
       <b>🚀 Tính năng:</b> Hệ thống Shop Auto cung cấp tài khoản game tự động lớn nhất. Tối ưu cực hạn <b>Database Queries</b> và <b>Redis</b> để chịu tải hàng ngàn giao dịch concurrent trong các sự kiện Flash Sale. SPA ReactJS kết hợp hệ thống API Laravel thanh toán thẻ cào/chuyển khoản (Bank/Momo) xử lý giao dịch tự động 24/7 tức thì 0 giây chờ.
     </td>
